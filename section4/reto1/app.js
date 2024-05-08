@@ -182,3 +182,4 @@ function editarReserva(numeroReserva, nuevaFechaInicio, nuevaFechaFin) {
   }
 }
 
+reservarHabitacion()
